@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">例101崩溃</string>
+    <string name="to_be_div">被除数</string>
+    <string name="div_to">除数</string>
+    <string name="result">结果</string>
+    <string name="compute">计算</string>
+    <string name="compute_with_try">带有异常捕获的计算</string>
+
+    <string name="exact_div">整除计算</string>
+</resources>

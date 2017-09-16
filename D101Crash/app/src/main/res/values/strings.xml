@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">D101Crash</string>
+    <string name="to_be_div">ToBeDiv</string>
+    <string name="div_to">DivTo</string>
+    <string name="result">Result</string>
+    <string name="compute">Compute</string>
+    <string name="compute_with_try">Compute with try</string>
+
+    <string name="exact_div">Exact Division</string>
+
+</resources>
